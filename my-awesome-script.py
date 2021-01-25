@@ -1,7 +1,3 @@
 #!/bin/python
-
-<<<<<<< HEAD
-print( "Howdey,World!" )
-=======
+# This is an awesome Python script
 print( "Hajimemashite sekai!" )
->>>>>>> feature/my-enhacement-2
